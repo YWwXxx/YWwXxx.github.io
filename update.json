@@ -1,23 +1,19 @@
 {
-  "version": "v1.0.0",
-  "notes": "Test version",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "version": "0.0.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-11-13T05:21:59.895Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
-    },
     "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHVJVzRJdnN0blJlcXgwVDZaZG0zTFZwRGVsR05lVExxb0F1VkpzcjFac3JuSWxva2VCdlc2Nk50MzBpMUlLcGFnY1BiY0g3aTNyVmZxRmc4QzdGSFRFemZsM2lmQWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5ODUyNjc4CWZpbGU6dGF1cmktZGVtbzJfMC4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CnVNUmxiU0FFVW1IWXdJdXVIeW9xMlBxajdkQW5TS3JDR01ZbFpPRnRqNG5FL09nVmtPNlRhRFlPYWJzZWhQU1pZRk5tOEpqc2ZrbEtYdmxmQ3ozSUFnPT0K",
+      "url": "https://github.com/YWwXxx/tauri-demo/releases/download/app-v0.0.0/tauri-demo2_0.0.0_amd64.AppImage.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHVJVzRJdnN0bmJjZ2VHYVEyOFM4WUdNOTV2cSt2MHdFT2lPZy91T1dXWTNhT3REZWZTZi9SaUpSY1dPQkFiUmw0czNjK0lYTGVGeHFsbEJxUUhCS29mSzZIem5mbFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5ODUyNzc1CWZpbGU6dGF1cmktZGVtbzIuYXBwLnRhci5nego0ZHgwb1luRnJVakpNeitpRk5DaTZqeEczYmpMc3I2ZEpJb2t0SkpZeUxmc1FwWmNZY1VjYzUvNHBTN24vTnhleHRLZlRLVnZHckQvTDRobDdBNUpDUT09Cg==",
+      "url": "https://github.com/YWwXxx/tauri-demo/releases/download/app-v0.0.0/tauri-demo2_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "Content of app.msi.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHVJVzRJdnN0blo4K3JteXBWaDBYemlqNlk1TmpXcWE3azRaUS9IWnhjZWthUTQyTUVsZERqY1Zyb2JWcURXS1N4TS9zaHBRWXN0NzV3ejk2a1czSTZ6djJMb2JodUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5ODUyOTE2CWZpbGU6dGF1cmktZGVtbzJfMC4wLjBfeDY0X2VuLVVTLm1zaS56aXAKNVRmdDkvWEw1QW1FalVLRFFDcG9zYndWREFGUEhSRTFYK3NSY2YrZEltR3B2WjNvTnVXeUlqSmJTWE9kVUFHMjJtc1BQVnBIMEE3dTdSVVJiN1BkQ3c9PQo=",
+      "url": "https://github.com/YWwXxx/tauri-demo/releases/download/app-v0.0.0/tauri-demo2_0.0.0_x64_en-US.msi.zip"
     }
   }
 }
