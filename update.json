@@ -8,6 +8,7 @@
       "url": "https://github.com/YWwXxx/tauri-demo/releases/download/app-v0.0.0/tauri-demo2_0.0.0_amd64.AppImage.tar.gz"
     },
     "darwin-x86_64": {
+      "signature": "WU0xdGVxZ1JrempFTnpVVGE4c1V3OVRYK1Y2amoyM1JSd1YzQUFBQkFBQUFBQUFBQUFBQUlBQUFBQVp2REl4QmNmbWR1UjAyZUxmUWRNczhKclRvYlZmUVczM2hMUkZhY1I5a0NhemFpVVZnbS9LcXFQU0Q0RGk0RTkyMmZVaVhKdVRSMEJBNUVEQUVJZS9JY25qWkc1Z0ZQQ3YwckVObmpyVCs2dFB0K3hkaTYrL3FQeFRDNkZ6bk5ZVldDVVVOdHRSMG89Cg==",
       "url": "https://github.com/YWwXxx/tauri-demo/releases/download/app-v0.0.5/_0.0.5_x64.dmg"
     },
     "windows-x86_64": {
