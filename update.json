@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.14",
   "notes": "!!!更新了！",
   "pub_date": "2023-11-13T05:22:59.895Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "WU0xdGVxZ1JrempFTnpVVGE4c1V3OVRYK1Y2amoyM1JSd1YzQUFBQkFBQUFBQUFBQUFBQUlBQUFBQVp2REl4QmNmbWR1UjAyZUxmUWRNczhKclRvYlZmUVczM2hMUkZhY1I5a0NhemFpVVZnbS9LcXFQU0Q0RGk0RTkyMmZVaVhKdVRSMEJBNUVEQUVJZS9JY25qWkc1Z0ZQQ3YwckVObmpyVCs2dFB0K3hkaTYrL3FQeFRDNkZ6bk5ZVldDVVVOdHRSMG89Cg==",
-      "url": "https://github.com/YWwXxx/tauri-demo/releases/download/app-v0.0.5/_0.0.5_x64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWHVJVzRJdnN0blpZSG5UR0lHQVU1dG9SS0hRQ0ZZcXFkeVlNN2w2cmsyenBTUkFUaEZBbzlaenNZQ1VFam1Va3MvQ3lxVitlMW9mWVExaS9QWG1veXNTVjBEZFVRTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5OTQyNjUxCWZpbGU65bqU55So5ZCNLmFwcC50YXIuZ3oKRVlNdncrU0ZIc3IyL2d1ZVFCL1JsRGlWT3M2MFdtUldybE56QnBEVitNT04yK0NYdTcvdFlEVlVubmYvU2ZLSWtxVFU2cEZZZGFpSnVkYktJVmpjQlE9PQo=",
+      "url": "https://github.com/YWwXxx/tauri-demo/releases/download/untagged-d9166217010a915eabb9/_x64.app.tar.gz"
     }
   }
 }
